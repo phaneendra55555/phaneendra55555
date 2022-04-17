@@ -1,0 +1,11 @@
+groupadd -g 800 nareshins
+useradd -u 801 -g 800  -d /king/nani -s /bin/bash nani;echo "nani" |passwd --stdin nani
+useradd -u 802 -g 800  -d /king/bala -s /bin/bash bala;echo "bala" |passwd --stdin bala
+useradd -u 804 -g 800  -d /king/chinni -s /bin/bash chinni;echo "chinni" |passwd --stdin chinni
+useradd -u 805 -g 800  -d /king/gopi -s /bin/bash gopi;echo "gopi" |passwd --stdin gopi
+useradd -u 806 -g 800  -d /king/koti -s /bin/bash koti;echo "koti" |passwd --stdin koti
+useradd -u 807 -g 800  -d /king/kiran -s /bin/bash kiran;echo "kiran" |passwd --stdin kiran
+useradd -u 808 -g 800  -d /king/mani -s /bin/bash mani;echo "mani" |passwd --stdin mani
+useradd -u 809 -g 800  -d /king/madhu -s /bin/bash madhu;echo "madhu" |passwd --stdin madhu
+useradd -u 810 -g 800  -d /king/mahesh -s /bin/bash mahesh;echo "mahesh" |passwd --stdin mahesh
+useradd -u 811 -g 800  -d /king/naveen -s /bin/bash naveen;echo "naveen" |passwd --stdin naveen
